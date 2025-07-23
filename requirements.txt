@@ -5,6 +5,6 @@ ctransformers ##==0.2.5
 sentence-transformers ##==2.2.2
 #to generate embedding, we need embedding model(free)
 pinecone-client # i want to integrate pinecone database(vector DB)
-langchaine ## ==0.0.225
+langchain ## ==0.0.225
 flask  #to create my front end
 pypdf
