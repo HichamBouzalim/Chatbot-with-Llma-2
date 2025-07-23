@@ -1,7 +1,7 @@
 #look at Pypi.org better current version
 # we will be running on CPU, we need this ctransformers Library to load the quantized model from hugging face
 # we use langchain, we need the ctransformers library and not llama cpp library
-ctransformer ##==0.2.5
+ctransformers ##==0.2.5
 sentence-transformers ##==2.2.2
 #to generate embedding, we need embedding model(free)
 pinecone-client # i want to integrate pinecone database(vector DB)
