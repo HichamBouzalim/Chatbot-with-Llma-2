@@ -1,0 +1,4 @@
+import langchain_community
+from langchain_community.llms import HuggingFaceHub
+
+print(langchain_community.__version__)

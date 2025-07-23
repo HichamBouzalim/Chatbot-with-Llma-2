@@ -8,3 +8,4 @@ pinecone-client # i want to integrate pinecone database(vector DB)
 langchain ## ==0.0.225
 flask  #to create my front end
 pypdf
+langchain-community
