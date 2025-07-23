@@ -9,3 +9,4 @@ langchain ## ==0.0.225
 flask  #to create my front end
 pypdf
 langchain-community
+python-dotenv ## apikey
