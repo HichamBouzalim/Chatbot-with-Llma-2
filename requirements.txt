@@ -11,3 +11,5 @@ pypdf
 langchain-community
 python-dotenv ## apikey
 langchain_pinecone
+langchain-openai
+-e .
