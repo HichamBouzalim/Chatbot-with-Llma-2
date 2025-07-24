@@ -10,3 +10,4 @@ flask  #to create my front end
 pypdf
 langchain-community
 python-dotenv ## apikey
+langchain_pinecone
