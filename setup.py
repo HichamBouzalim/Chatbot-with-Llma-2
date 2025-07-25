@@ -4,7 +4,7 @@ setup(
     name="Chatbot",
     version="0.1.0",
     author="hicham bouzalim",
-    author_email="bouzalim",
+    author_email="bouzalimhicham11@gmail.com",
     packages=find_packages(),
     install_requires=[]
 )
